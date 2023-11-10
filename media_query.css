@@ -1,0 +1,25 @@
+@media screen and (max-width :768px) {
+    .nav-bar li {
+        display: none;
+    }
+
+    .aboutleft,
+    .aboutright {
+        width: 80%;
+        margin: auto auto 50px;
+        padding-left: 0;
+        float: none;
+
+    }
+
+    .Services .contaner25,
+    .Portfolio .contaner33 ,
+    .Testimonial .contaner25 ,
+    .Blog .contaner33 
+    {
+
+        width: 80%;
+        margin: auto;
+    }
+.contact .IN50 {width: 100%;}
+}
